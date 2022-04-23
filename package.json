@@ -1,0 +1,21 @@
+{
+  "name": "benderbot",
+  "version": "1.0.0",
+  "description": "Bender Bending Rodriguez Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bender.js"
+  },
+  "keywords": [
+    "bender",
+    "futurama"
+  ],
+  "author": "Greco Francesco",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "mustache": "^4.2.0",
+    "twit": "^2.2.11"
+  }
+}

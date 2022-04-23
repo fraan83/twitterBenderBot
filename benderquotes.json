@@ -1,0 +1,240 @@
+{
+    "frasi": [{
+            "id": 1,
+            "frase": "Vaffanchiappola!"
+        },
+        {
+            "id": 2,
+            "frase": "Devo controllare il mio programma. "
+        },
+        {
+            "id": 3,
+            "frase": "Ho frequentato la facoltà per piegatori. Mi sono laureato in piegamento."
+        },
+        {
+            "id": 4,
+            "frase": " Idioti che fanno regalini ad altri idioti! "
+        },
+        {
+            "id": 5,
+            "frase": "Una scossa al giorno toglie il tecnico di torno. "
+        },
+        {
+            "id": 7,
+            "frase": "Penso che un robot debba essere svalvolato per voler diventare un cantante folk. "
+        },
+        {
+            "id": 8,
+            "frase": "Devo controllare il mio programma. "
+        },
+        {
+            "id": 9,
+            "frase": " Ah non c'è posto per Bender, eh? E allora mi costruirò un modulo tutto mio, con blackjack e squillo di lusso! Anzi, senza modulo e senza blackjack."
+        },
+        {
+            "id": 10,
+            "frase": "Voglio stare attento al mio input. Ingurgito solo alcool che è sano e nutriente. L'energia chimica tiene cariche le pile a combustibile."
+        },
+        {
+            "id": 11,
+            "frase": "Io mi rifiuto di combattere! Sono un obiettore di coscienza!"
+        },
+        {
+            "id": 12,
+            "frase": "Sante rotelle!"
+        },
+        {
+            "id": 13,
+            "frase": "È proprio vero quello che dicono: le donne sono di Omicron Perseo 7 e gli uomini di Omicron Perseo 9! "
+        },
+        {
+            "id": 14,
+            "frase": "Io odio quelli che mi vogliono bene, e loro odiano me."
+        },
+        {
+            "id": 15,
+            "frase": "Lascia perdere, è gay.  Io ho la tecnologia! Il radar che li individua: il gaydar!"
+        },
+        {
+            "id": 16,
+            "frase": "Ammettetelo, voi credete che i robot siano macchine costruite da umani per facilitare la loro vita!"
+        },
+        {
+            "id": 18,
+            "frase": "È il Robanukah, le due più sacre settimane del calendario robotico."
+        },
+        {
+            "id": 19,
+            "frase": " Mi hanno definito un estremista violento e sanguinario, quando per la prima volta invocai l'annientamento della specie umana insieme a quello delle scimmie più astute ed evolute. Ma dopo aver vissuto sulla Terra posso dirvi con cognizione di causa che sono anche troppo clemente!"
+        },
+        {
+            "id": 20,
+            "frase": "Dunque, l'essere umano medio è alto tra i novanta centimetri e i sette metri ed è fatto di un materiale molliccio e peloso avvolto in una T-shirt."
+        },
+        {
+            "id": 21,
+            "frase": "Oh, cazzuola!"
+        },
+        {
+            "id": 22,
+            "frase": "Ah sì? Allora mi costruirò un Luna Park tutto mio, con black jack e squillo di lusso; anzi, senza Luna Park."
+        },
+        {
+            "id": 23,
+            "frase": "Baciate il mio scintillante fondoschiena metallico!"
+        },
+        {
+            "id": 24,
+            "frase": "Andate a quel pianeta!"
+        },
+        {
+            "id": 25,
+            "frase": "Sono al 4% di zinco!"
+        },
+        {
+            "id": 26,
+            "frase": "L'unico motivo per cui acchiappi è perché ti vesti in modo provocante!"
+        },
+        {
+            "id": 27,
+            "frase": "Mi sento solo... Vado ad ingozzarmi di gelato alla crema..."
+        },
+        {
+            "id": 28,
+            "frase": "Occhiali-clicca-fortuna. Li ho rubati ad un umanoide fortunato mentre il suo cane guida si era fermato a fare pipi."
+        },
+        {
+            "id": 29,
+            "frase": "Noi robot non possiamo provare emozioni e questo mi rende molto triste."
+        },
+        {
+            "id": 30,
+            "frase": "A volo d'angelo!"
+        },
+        {
+            "id": 31,
+            "frase": "Io sono Bender, prego inserire floppino."
+        }
+    ],
+    "risposte": [{
+            "id": 1,
+            "saluto" : "Ehi ",
+            "frase": ", bacia il mio scintillante fondoschiena metallico!"
+        },
+        {
+            "id": 2,
+            "saluto" : "Lascia perdere, ",
+            "frase": " è gay.  Io ho la tecnologia! Il radar che li individua: il gaydar!"
+        },
+        {
+            "id": 3,
+            "saluto" : "Ciao ",
+            "frase": ". Io sono Bender, lo showman robot, o per meglio dire lo showbot!"
+        },
+        {
+            "id": 4,
+            "saluto" : "Va bene  ",
+            "frase": ", ma non voglio che la gente pensi che siamo dei robotsessuali. Perciò se fanno domande tu sei il mio tecnico."
+        },
+        {
+            "id": 5,
+            "saluto" : "Ehi ",
+            "frase": "! Non rompermi le valvole!"
+        },
+        {
+            "id": 6,
+            "saluto" : "Certo, ",
+            "frase": "! Col quarzo!"
+        },
+        {
+            "id": 7,
+            "saluto" : "Ehi ",
+            "frase": ", tieni quella roba alla larga da me! Le calamite sbloccano le mie inibizioni!"
+        },
+        {
+            "id": 8,
+            "saluto" : "Ciao ",
+            "frase": "! Hai già deciso dove andare?"
+        },
+        {
+            "id": 9,
+            "saluto" : "Ehi ",
+            "frase": ", quello che non faccio non ti deve riguardare! È chiaro?"
+        },
+        {
+            "id": 10,
+            "saluto" : "Rallenta ",
+            "frase": "! sexy gnocca ad ore 12!"
+        },
+        {
+            "id": 11,
+            "saluto" : "Ehi ",
+            "frase": ", amore, mordicchiami le chiappe!"
+        },
+        {
+            "id": 12,
+            "saluto" : "Eh, cosa? Non ti ho sentito ",
+            "frase": ", ero troppo occupato a ficcanasare nelle cose col raggio F."
+        },
+        {
+            "id": 13,
+            "saluto" : "Mi spiace ",
+            "frase": ", noi robot non possiamo provare emozioni e questo mi rende molto triste."
+        },
+        {
+            "id": 14,
+            "saluto" : "Ehi ",
+            "frase": ", stai usando la psicologia negativa, eh?"
+        },
+        {
+            "id": 15,
+            "saluto" : "Ah la metti così ",
+            "frase": "? Allora mi costruirò un Social tutto mio, con black jack e squillo di lusso. Anzi, senza Social."
+        },
+        {
+            "id": 16,
+            "saluto" : "Ciao ",
+            "frase": ". Io sono Bender, prego, inserire floppino."
+        },
+        {
+            "id": 17,
+            "saluto" : "Ehi ",
+            "frase": ", sei più svitata di mia zia Rita. E lei è una vite..."
+        },
+        {
+            "id": 18,
+            "saluto" : "No ",
+            "frase": ", non farmi morire dal ridere. Io voglio vivere. Ci sono ancora un sacco di cose che ancora non possiedo."
+        },
+        {
+            "id": 19,
+            "saluto" : "Evvai ",
+            "frase": "! Magnifico!"
+        },
+        {
+            "id": 20,
+            "saluto" : "Ehi ",
+            "frase": ", sono io quello che dice le battute toste!!"
+        },
+        {
+            "id": 21,
+            "saluto" : "Ebbene sì  ",
+            "frase": ". Sono stato io, Bender, il genio del crimine."
+        },
+        {
+            "id": 22,
+            "saluto" : "Vogliamo scherzare ",
+            "frase": "? La mia bisnonna era un buldozeer!"
+        },
+        {
+            "id": 23,
+            "saluto" : "E andiamo! Grande ",
+            "frase": "!"
+        },
+        {
+            "id": 24,
+            "saluto" : "Amici miei, amici di  ",
+            "frase": ", non c'è mai nessun grande amore senza una grande gelosia. Ah, quanto vi amo insaccati miei."
+        }
+    ]
+}
